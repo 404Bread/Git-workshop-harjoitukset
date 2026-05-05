@@ -1,0 +1,1 @@
+Koodi harjoitus Websivuston kehittäminen kursille. Responsive Design.
